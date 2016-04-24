@@ -1,0 +1,10 @@
+# Basics
+*.py[cod]
+__pycache__
+
+# Logs
+*.log
+
+*~
+*.swp
+*.swo
